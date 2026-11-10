@@ -5,6 +5,9 @@
 스캔한 표 이미지를 PaddleOCR(영어 모델)로 읽고, 글자를 **행·열에 연결한 표**로 만든 뒤
 원본 대조 결과와 실행 기록까지 남기는 Colab 노트북입니다.
 
+## 결과 이미지
+<img width="2100" height="505" alt="census-table_ocr_res_img" src="https://github.com/user-attachments/assets/235d2c5d-4ba5-4b5b-a5a0-07ba18044125" />
+
 ## 바로 실행
 
 1. 위 **Open in Colab** 배지를 누릅니다.
