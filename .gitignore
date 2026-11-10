@@ -1,0 +1,7 @@
+# 노트북 실행 결과 (Colab에서 매번 새로 만듦)
+outputs/
+output/ocr/
+*.zip
+
+.ipynb_checkpoints/
+__pycache__/
